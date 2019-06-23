@@ -7022,6 +7022,39 @@ Goldhill
 Cache compaction scheme to utilise the B4 algorithm
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Formula $\;\;\;\;$
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Compaction-1"
+
+\end_inset
+
+Proposed compaction scheme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 FPGA resource utilisation
 \end_layout
